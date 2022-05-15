@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.soxes.getAbstract",
-    "sha256_cert_fingerprints":
-    ["B6:A2:FF:5D:3A:42:F9:48:73:C0:98:FA:55:98:D5:53:D5:FC:0A:B7:AF:03:29:C7:31:D5:EE:90:ED:CB:CA:DE"]
-  }
-}]
